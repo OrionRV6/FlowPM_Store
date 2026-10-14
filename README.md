@@ -21,7 +21,6 @@ Este proyecto ofrece una experiencia de compra rápida y profesional para los cl
 - **Control de Stock:** Las zapatillas sin tallas disponibles se muestran como "Agotado", con acceso directo para consultar reposición.
 - **Fotos Optimizadas:** Cada imagen se reduce y se convierte a WebP al subirla, para una carga más rápida.
 - **Diseño Responsivo:** Adaptable a celulares, tablets y computadores.
-- **Animaciones Fluidas:** Efectos suaves en los botones y transiciones, respetando la preferencia de "reducir movimiento" del usuario.
 - **Identidad de Marca:** Paleta de colores (turquesa, negro y blanco) tomada directamente del logo de la tienda.
 
 ---
