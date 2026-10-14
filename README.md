@@ -40,7 +40,7 @@ Este proyecto ofrece una experiencia de compra rápida y profesional para los cl
 ## 📁 Estructura del Proyecto
 
 ```text
-FlowPM-Store/
+FlowPM_Store/
 └── flowpm-app/
     ├── public/                 # Logo e imágenes estáticas
     ├── src/
