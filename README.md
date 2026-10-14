@@ -129,11 +129,10 @@ La seguridad está resuelta en la base de datos: cualquier visitante puede **ver
 
 ## ☁️ Publicación en Vercel
 
-1. Sube el proyecto a GitHub.
-2. Entra a [vercel.com](https://vercel.com/) con tu cuenta de GitHub y presiona **Add New > Project**.
-3. Importa este repositorio y, en **Root Directory**, selecciona `flowpm-app`.
-4. En **Environment Variables**, agrega `VITE_SUPABASE_URL` y `VITE_SUPABASE_ANON_KEY` con los mismos valores de tu `.env`.
-5. Presiona **Deploy**. En un par de minutos tendrás tu tienda en línea con una dirección `.vercel.app`, y podrás conectarle un dominio propio.
+1. Entra a [vercel.com](https://vercel.com/) con tu cuenta de GitHub y presiona **Add New > Project**.
+2. Importa este repositorio y, en **Root Directory**, selecciona `flowpm-app`.
+3. En **Environment Variables**, agrega `VITE_SUPABASE_URL` y `VITE_SUPABASE_ANON_KEY` con los mismos valores de tu `.env`.
+4. Presiona **Deploy**. En un par de minutos tendrás tu tienda en línea con una dirección `.vercel.app`, y podrás conectarle un dominio propio.
 
 ---
 
